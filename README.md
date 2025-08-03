@@ -1,3 +1,15 @@
+## TravellAIng
+
+This project consists of an admin dashboard where users can see stats about their trips, total number of users and create trip itineraries using GeminiAPI following a series of selections.
+
+When on the project feel free to log in with Google and access the dashboard to start creating trips using AI, there is no public-user view, it's just an Admin Dashboard
+
+<img width="1661" height="825" alt="Screenshot 2025-08-03 at 12 52 07" src="https://github.com/user-attachments/assets/93906ae9-2b72-498d-9140-01dae52e9c71" />
+
+<img width="1661" height="825" alt="Screenshot 2025-08-03 at 12 34 19" src="https://github.com/user-attachments/assets/40a5a692-c54e-472f-963e-0c00b64f6118" />
+
+
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
